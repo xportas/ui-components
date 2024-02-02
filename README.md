@@ -4,7 +4,7 @@ Welcome to the frontend reusable components repository! This space hosts a varie
 
 ## Contributions
 
-We appreciate and encourage community contributions. If you want to add new components, make improvements, or fix bugs, follow these steps:
+I appreciate and encourage community contributions. If you want to add new components, make improvements, or fix bugs, follow these steps:
 
 1. **Clone the repository:**
    ```bash
@@ -30,6 +30,6 @@ We appreciate and encourage community contributions. If you want to add new comp
 
 ## Issues and Support
 
-If you encounter problems or have questions, open an issue in the [issue tracker](https://github.com/your-username/your-repository/issues). We appreciate detailed reports to facilitate resolution.
+If you encounter problems or have questions, please, open an issue. I appreciate detailed reports to facilitate resolution.
 
-We hope these components power up your projects! Thank you for contributing to the growth of this collection of reusable resources. Happy coding!
+I hope these components power up your projects! Thank you for contributing to the growth of this collection of reusable resources. Happy coding!
